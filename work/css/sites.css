@@ -1,0 +1,16 @@
+/* site.css*/
+header {
+	background-color: lightblue;
+	border: solid 1px black;
+	font-family: sans-serif;
+	border-radius: 10px;
+}
+body {
+	font-family: Arial, Segoe UI;
+	font-size:20px; 
+	padding: 10px;
+}
+
+#main {
+padding: 5px;
+}
